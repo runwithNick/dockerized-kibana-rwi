@@ -1,4 +1,11 @@
-# Dockerized Kibana with Gradiant Branding 
+# Dockerized Kibana with Gradiant Branding
+
+Forked By Nick Borle
+September 2022
+
+The idea with this is to try and make our own "Branded" Kibana. Gonna try and see if i cna do this with Kibana 7.17.
+
+The following is from the original readme.
 
 ## TL;DR
 

@@ -1,0 +1,11 @@
+
+{
+  "name": "rwi_style",
+  "version": "0.1.0",
+  "main": "index.js",
+  "kibana": {
+    "version": "7.5.0"
+  },
+  "author": "Carlos Giraldo <nick@runwithitsynthetics.com>",
+  "website": "http://www.runwithitsynthetics.com"
+}
